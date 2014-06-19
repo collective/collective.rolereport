@@ -17,6 +17,7 @@
         name="role-report.html"
         permission="cmf.ManagePortal"
         class=".rolereport.RoleReportHTML"
+        template="rolereportmessage.pt"
         />
   
 </configure>
