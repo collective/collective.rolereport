@@ -12,6 +12,7 @@ setup(name='collective.rolereport',
       classifiers=[
         "Framework :: Plone",
         "Programming Language :: Python",
+        "Programming Language :: Python :: 2.4",
         ],
       keywords='web zope plone',
       author='Colliberty',
